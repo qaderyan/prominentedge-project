@@ -1,4 +1,5 @@
-# Enrich 911 Incidents
+# Enrich 911 Incidents![Screen Shot 2021-12-20 at 10 22 44 AM](https://user-images.githubusercontent.com/35908081/146791466-78e63c86-e083-4bc4-9720-727123822c6e.png)
+
 
 ![Demo Screenshot](https://github.com/briannezhad/Enrich-911/blob/main/screenshot.png?raw=true)
 
