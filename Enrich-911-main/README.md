@@ -1,12 +1,10 @@
 # Enrich 911 Incidents!
 
 
-(https://user-images.githubusercontent.com/35908081/146791466-78e63c86-e083-4bc4-9720-727123822c6e.png)
+[demo screenshot] 
 
+## Available Scripts![Screen Shot 2021-12-20 at 10 22 44 AM](https://user-images.githubusercontent.com/35908081/146791910-97d9f551-714c-4d8d-a9f5-66f4c4d22403.png)
 
-!
-
-## Available Scripts
 
 In the project directory, you can run:
 
